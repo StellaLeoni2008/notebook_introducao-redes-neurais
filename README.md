@@ -1,4 +1,4 @@
-<h1 align="center"> 🧠 Redes Neurais: Deep Learning com PyTorch </h1>
+<h1 align="center"> 🧠 Notebook do curso "Redes Neurais: Deep Learning com PyTorch" </h1>
 
 <p align="center">
 <img width="800" height="500" alt="PyTorch Deep Learning" src="https://github.com/user-attachments/assets/SEU-PRINT-AQUI" />
@@ -11,9 +11,6 @@
 ---
 
 ## 📌 Sobre
-
-Este notebook foi desenvolvido durante o curso **Alura – Redes Neurais: Deep Learning com PyTorch**.
-
 O objetivo do curso foi apresentar os fundamentos de Deep Learning utilizando PyTorch, explorando desde operações básicas com tensores até a construção de redes neurais artificiais.
 
 Durante o desenvolvimento, foram trabalhados conceitos relacionados à manipulação de tensores, perceptrons, classificação linear e construção de modelos neurais utilizando o módulo `torch.nn`.
